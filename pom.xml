@@ -399,7 +399,7 @@
                 <version>2.8</version>
                 <configuration>
                     <dependencyLocationsEnabled>false</dependencyLocationsEnabled>
-                    <!-- waiting for MPIR-267 -->
+                    <!-- waiting for MPIR-267 --> 
                 </configuration>
                 <reportSets>
                     <reportSet>
